@@ -46,3 +46,7 @@ A curated list of awesome bounties for building crypto infrastructure
 ## Bug Bounties
 
    - WIP
+
+## Understanding Basic Concepts
+
+ - [Digital Signatures in Ethereum](https://medium.com/mycrypto/the-magic-of-digital-signatures-on-ethereum-98fe184dc9c7)
